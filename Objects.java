@@ -1,6 +1,5 @@
 
 //How To Initialize A Object By Reference Variable//
-//class Animal{
 
 public class Objects {
         String color;
@@ -15,4 +14,3 @@ public class Objects {
     }
 
     
-//}
